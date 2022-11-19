@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586359016777",
+    "project_id": "movie-app-77724",
+    "storage_bucket": "movie-app-77724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586359016777:android:5a51e8dc8c89726000de98",
+        "android_client_info": {
+          "package_name": "com.fajar.movieapp.trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586359016777-imrserfqn7a4jrvqulk7bgfma8idjseu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fajar.movieapp.trial",
+            "certificate_hash": "e1041d1f72a70503a24806b10f25ad0b6ff3ebf9"
+          }
+        },
+        {
+          "client_id": "586359016777-nkgaocn08rlime9kdfie6pri8kf308v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaeK6q00DmVT68t1XYd5AkYP8Jl1Ek-Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586359016777-nkgaocn08rlime9kdfie6pri8kf308v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
